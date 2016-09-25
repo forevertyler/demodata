@@ -1,6 +1,6 @@
 [
-  {"index":1,"title":"如何成为高手","desc":"天天学天天学天天学天天学天天学天天学天天学天天学","url":"a"},
-  {"index":2,"title":"如何成为王者","desc":"天天学天天学天天学天天学天天学天天学天天学天天学","url":"b"},
-  {"index":3,"title":"如何成为大师","desc":"天天学天天学天天学天天学天天学天天学天天学天天学","url":"c"},
-  {"index":4,"title":"如何成为白金","desc":"天天学天天学天天高手代练学天天学天天学天天学","url":"d"}
+  {"index":1,"title":"Git和Github基本操作手册","desc":"Git 及 Github 在工作学习中非常重要，它不仅仅是一个管理存放代码的仓库，更是一个开源的社区。学习Git及Github的操作是首要技能。 廖雪峰的 Git 教程","url":"GitAndGitHub"},
+  {"index":2,"title":"Markdowm 语法介绍","desc":"Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。 Markdown具有一系列衍生版本，用于扩展M...","url":"Markdown"},
+  {"index":3,"title":"ReactBasic","desc":"除组件化、虚拟DOM在复用以及性能上带来的一般好处外，React思想使得开发者之间更好的分工与合作，在配合上非常顺畅，规范的接口以及极强的约束，使得整个代码结构...","url":"ReactBasic"},
+  {"index":4,"title":"React-router","desc":"需要注意的是，react-router更新很快，API也在持续升级，也许你看到市面很多教程，但可能那还是1.x甚至是0.x版本的。","url":"React-router"}
 ]
